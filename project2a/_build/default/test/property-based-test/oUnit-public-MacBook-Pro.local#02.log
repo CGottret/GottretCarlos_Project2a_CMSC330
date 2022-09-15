@@ -1,0 +1,30 @@
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: Start test public:1:test_rev_twice.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: 
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: law test_rev_twice: 25 relevant cases (25 total)
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: 
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: Test public:1:test_rev_twice is successful.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: End test public:1:test_rev_twice.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: Start test public:5:test_is_odd_multiplicativity.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: 
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: law test_is_odd_multiplicativity: 10 relevant cases (10 total)
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: 
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: Test public:5:test_is_odd_multiplicativity is successful.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: End test public:5:test_is_odd_multiplicativity.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: Start test public:6:test_area_positive.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: 
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: law test_area_positive: 10 relevant cases (10 total)
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: 
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: Test public:6:test_area_positive is successful.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: End test public:6:test_area_positive.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: Start test public:8:test_fib_geq_z.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: 
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: law test_fib_geq_z: 20 relevant cases (20 total)
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: 
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: Test public:8:test_fib_geq_z is successful.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: End test public:8:test_fib_geq_z.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: Start test public:11:test_rev_lst.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: 
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: law test_rev_lst: 30 relevant cases (30 total)
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: 
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: Test public:11:test_rev_lst is successful.
+2022-02-23T03:52:37+00:00 MacBook-Pro.local#02 I: End test public:11:test_rev_lst.
